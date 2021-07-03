@@ -6,7 +6,7 @@ We simulate a Book Store data base and interact with user using the terminal com
 
 ## How to user
 
-- Clone de project
+- Clone the project
 - Run the code into terminal
 ```
 npm start
